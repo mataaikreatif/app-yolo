@@ -6,3 +6,4 @@ matplotlib
 pyyaml
 streamlit
 Pillow
+labelImg
