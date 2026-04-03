@@ -1,0 +1,9 @@
+# Template for dataset description used by YOLOv8 (Ultralytics)
+# Copy this to `data.yaml` and update paths and class names.
+
+path: ./dataset  # optional base path
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 1
+names: ["your_class_name"]
