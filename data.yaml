@@ -1,0 +1,6 @@
+names:
+- box
+nc: 1
+path: D:\Kuliah\app-yolo\dataset
+train: images/train
+val: images/val
